@@ -1,0 +1,9 @@
+__pycache__
+*/__pycache__
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+eval/eval_window_STUDENT_MERSENNE.ipynb
+
+.DS_Store
